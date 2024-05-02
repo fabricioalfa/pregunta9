@@ -1,0 +1,10 @@
+C:\Users\fabri\source\repos\ejer9\ejer9\bin\Debug\ejer9.exe.config
+C:\Users\fabri\source\repos\ejer9\ejer9\bin\Debug\ejer9.exe
+C:\Users\fabri\source\repos\ejer9\ejer9\bin\Debug\ejer9.pdb
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.Form1.resources
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.Properties.Resources.resources
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.exe
+C:\Users\fabri\source\repos\ejer9\ejer9\obj\Debug\ejer9.pdb
